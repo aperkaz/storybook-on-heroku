@@ -1,1 +1,1 @@
-web: npm run storybook
+web: http-server storybook-static
